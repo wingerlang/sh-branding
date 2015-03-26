@@ -4,6 +4,7 @@
 
 4. Kör följande kommando:
 `npm install express-generator -g`
+
 `npm install nodemon -g`
 
 
